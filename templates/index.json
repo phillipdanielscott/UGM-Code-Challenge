@@ -1,0 +1,46 @@
+{
+  "sections": {
+    "hero": {
+      "type": "hero",
+      "blocks": {
+        "10993bd4-fc18-476a-a4a0-da571a5415ab": {
+          "type": "heading",
+          "settings": {
+            "heading": "JOE Artist",
+            "heading_size": "h1"
+          }
+        },
+        "4ed44bae-97f2-447a-ba34-e05b48a0df64": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "SHOP",
+            "button_link_1": "shopify:\/\/collections\/all",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "10993bd4-fc18-476a-a4a0-da571a5415ab",
+        "4ed44bae-97f2-447a-ba34-e05b48a0df64"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/merch_20wall_20copy.webp",
+        "image_overlay_opacity": 30,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    }
+  },
+  "order": [
+    "hero"
+  ]
+}
